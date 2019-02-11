@@ -1,3 +1,5 @@
+# Move to https://github.com/crstnbr/BinningAnalysis.jl
+
 # BinningAnalysis
 
 [![Build Status](https://travis-ci.org/ffreyer/BinningAnalysis.jl.svg?branch=master)](https://travis-ci.org/ffreyer/BinningAnalysis.jl)
