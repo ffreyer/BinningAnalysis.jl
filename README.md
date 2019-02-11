@@ -1,4 +1,4 @@
-# Move to https://github.com/crstnbr/BinningAnalysis.jl
+# Moved to https://github.com/crstnbr/BinningAnalysis.jl
 
 # BinningAnalysis
 
